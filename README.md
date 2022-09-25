@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @michaelbeep
-- 👀 I’m interested in HTML, CSS, JavaScript, Tailwind CSS, Vue JS and Python.
-- 🌱 I’m currently learning JavaScript, Tailwind CSS, Vue JS and Python.
+- 👀 I’m interested in HTML, CSS, JavaScript,Vue JS and Python.
+- 🌱 I’m currently learning JavaScript,Vue JS and Python.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me is on Twitter @ab_michael_
 
